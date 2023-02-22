@@ -1,0 +1,62 @@
+.container-dash{
+    width: 270px;
+    height:80px ;
+    padding: 20px 15px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 0 10px #0000002b;
+    border-radius: 10px;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 30px;
+    color: white;
+}
+
+.number-text{
+    font-size: 30px;
+}
+
+.icon-size{
+    font-size: 40px;
+
+}
+.a{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.graph-container{
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+.graph-line{
+flex:1 1 auto;
+}
+.line-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 18px;
+    box-shadow: 0 0 5px #0000005c;
+}
+.line-head p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.graph-icon{
+    font-size: 20px;
+    cursor: pointer;
+}
+.graph-img-1{
+   
+}
+.graph-img-2{
+   
+}
+
+.graph-img-1,.graph-img-2{
+    box-shadow: 0 0 5px #0000005c;
+
+}
